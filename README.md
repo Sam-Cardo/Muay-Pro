@@ -151,3 +151,9 @@ cd frontend
 npm install
 npm run dev
 ```
+
+## Author 
+Samuel Cardo
+
+## License
+[GNU GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
